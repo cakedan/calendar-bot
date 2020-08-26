@@ -1,0 +1,19 @@
+{
+  "name": "calendar-bot",
+  "version": "1.0.0",
+  "description": "calendar bot that parses icloud links",
+  "main": "run.js",
+  "dependencies": {
+    "chrono-node": "^2.1.8",
+    "detritus-client": "^0.11.1",
+    "ical": "^0.8.0",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
